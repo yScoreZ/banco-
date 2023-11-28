@@ -1,0 +1,13 @@
+/* src/App.css */
+/* ... mantenha os estilos anteriores ... */
+
+div label {
+  margin-right: 10px;
+}
+
+div input {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* ... mantenha os estilos anteriores ... */
